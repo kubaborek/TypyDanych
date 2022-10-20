@@ -1,0 +1,15 @@
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\bin\Debug\net6.0\TypyDanych.exe
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\bin\Debug\net6.0\TypyDanych.deps.json
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\bin\Debug\net6.0\TypyDanych.runtimeconfig.json
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\bin\Debug\net6.0\TypyDanych.dll
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\bin\Debug\net6.0\TypyDanych.pdb
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\obj\Debug\net6.0\TypyDanych.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\obj\Debug\net6.0\TypyDanych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\obj\Debug\net6.0\TypyDanych.AssemblyInfoInputs.cache
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\obj\Debug\net6.0\TypyDanych.AssemblyInfo.cs
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\obj\Debug\net6.0\TypyDanych.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\obj\Debug\net6.0\TypyDanych.dll
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\obj\Debug\net6.0\refint\TypyDanych.dll
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\obj\Debug\net6.0\TypyDanych.pdb
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\obj\Debug\net6.0\TypyDanych.genruntimeconfig.cache
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.4\TypyDanych\TypyDanych\obj\Debug\net6.0\ref\TypyDanych.dll
